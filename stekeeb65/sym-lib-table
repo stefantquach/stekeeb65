@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/libraries/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/libraries/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "mini_random_library")(type "Legacy")(uri "${KIPRJMOD}/libraries/mini-random-library/mini_random_library.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/libraries/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/libraries/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
