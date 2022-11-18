@@ -1,3 +1,8 @@
 (fp_lib_table
   (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/libraries/MX_Alps_Hybrid")(options "")(descr ""))
+  (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/libraries/MX_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/libraries/Type-C.pretty")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "custom_library")(type "KiCad")(uri "${KIPRJMOD}/libraries/custom_library")(options "")(descr ""))
 )

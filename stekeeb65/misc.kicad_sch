@@ -1119,7 +1119,7 @@
     (uuid 47c1fa4b-2176-4ad1-af28-c676f197f08e)
     (property "Reference" "J1" (id 0) (at 39.37 26.67 0))
     (property "Value" "TYPE-C-31-M12_13_EDITED" (id 1) (at 39.37 29.21 0))
-    (property "Footprint" "acheronConnectors:TYPE-C-31-M-12" (id 2) (at 26.67 62.23 90)
+    (property "Footprint" "Type-C:HRO-TYPE-C-31-M-12-HandSoldering" (id 2) (at 26.67 62.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 44.45 62.23 0)

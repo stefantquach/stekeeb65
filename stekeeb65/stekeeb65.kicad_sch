@@ -337,205 +337,205 @@
       (reference "C27") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/a1fa52b5-4e91-44d3-8174-2622c9f23b98"
-      (reference "D68") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D68") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/bc2c8bfa-841b-4e97-b6a5-91735e7305f6"
-      (reference "D69") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D69") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/36b00821-2e3c-4a7e-a690-3a6cc6c9a52e"
-      (reference "D70") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D70") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/38bab1d1-3a47-4f3d-969d-e0015fda78ef"
-      (reference "D71") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D71") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/68c3a5ae-9b2f-4d5c-ae03-08d02884621a"
-      (reference "D72") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D72") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/8f4641a1-0690-4b04-92f0-0c5d57b9ed13"
-      (reference "D73") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D73") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/7385d5b2-5f1c-41a4-9131-7e4cb8d342dd"
-      (reference "D74") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D74") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/1d571419-b1e2-48ae-955d-e0c894f5cb41"
-      (reference "D75") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D75") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/0e254964-8c20-4b7a-b520-37e5386774a5"
-      (reference "D76") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D76") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/0f1aa52c-9647-4a6b-abd9-c39e5edfb012"
-      (reference "D77") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D77") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/3d91a96c-573f-4551-ad5f-45e7e6374b6a"
-      (reference "D78") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D78") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/2a1d4405-8042-42ef-852f-d124d332a896"
-      (reference "D79") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D79") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/2fb0f8ac-bda0-4c9d-94d4-da329f3e35bf"
-      (reference "D80") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D80") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/82572c32-8e1d-410f-a271-009fbb420d7a"
-      (reference "D81") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D81") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/0cbfa3de-9bd0-495f-bd57-782ca60bfbed"
-      (reference "D82") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D82") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/db05cbd2-9b6f-492e-90d0-f2b6e1207129"
-      (reference "D83") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D83") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/431bc033-cc0b-4124-9cd3-7d3799bae4fa"
-      (reference "D84") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D84") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/e3b05b1a-0ed5-4e50-9d3e-d8dd997206fc"
-      (reference "D85") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D85") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/56127d04-065a-4791-b351-10380ecf6565"
-      (reference "D86") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D86") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/801baab2-0508-465a-80b9-12a48f158009"
-      (reference "D87") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D87") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/7eb4bbd7-c0ed-400d-a8c9-c9728c238b8f"
-      (reference "D88") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D88") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/8cffec41-afa7-4092-80d1-967ceb08d7c6"
-      (reference "D89") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D89") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/84870958-1502-411f-b3b1-aefd59248274"
-      (reference "D90") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D90") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/6d875b86-2d16-40f9-81fe-dd73fb5efdf3"
-      (reference "D91") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D91") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/be920dd0-8ae3-4e3f-9954-6168d66a6ea2"
-      (reference "D92") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D92") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/9eed7073-2527-4e55-89dd-a3640eaff549"
-      (reference "D93") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D93") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/40892170-b7d8-4e32-9657-f2be1a94ea66"
-      (reference "D94") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D94") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/9346785b-7427-4718-9e2c-98759a52b0b5"
-      (reference "D95") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D95") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/c2b793f9-0310-41d2-a921-2555195aa09c"
-      (reference "D96") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D96") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/f4dba76a-e4b8-4be7-8702-40c5daa17955"
-      (reference "D97") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D97") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/7f619753-5533-4729-92dc-f75e0ec9eb96"
-      (reference "D98") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D98") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/88474fba-b671-4e8d-8bc4-15a51ec9e113"
-      (reference "D99") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D99") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/5f34c972-39ec-4e4e-8789-10af38dd01b8"
-      (reference "D100") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D100") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/e74b2260-8c14-445e-86b0-f19ac439c4ec"
-      (reference "D101") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D101") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/203d62f6-3c84-4b48-86c3-b60064eba0cf"
-      (reference "D102") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D102") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/889b4fa6-a891-42a1-a294-ea58c962e998"
-      (reference "D103") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D103") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/79300bbc-cee3-4e22-9f0c-40186fe2d9af"
-      (reference "D104") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D104") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/1b2002e2-8575-416b-90b9-62b4e3a9da4d"
-      (reference "D105") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D105") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/ee80b7a5-1ba5-4826-98a4-3e63c3d6ab91"
-      (reference "D106") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D106") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/35143c3a-3c2a-451e-9fb3-2f35c3fd7165"
-      (reference "D107") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D107") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/9f4be110-043c-4b0a-bb78-e7e291f2d716"
-      (reference "D108") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D108") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/125204f7-c129-4f5f-a315-5ac08e543aa0"
-      (reference "D109") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D109") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/fa75bc86-a4fe-4c01-82a6-845eff558b86"
-      (reference "D110") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D110") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/1618643d-73ac-40fc-90c7-a1c94b27a142"
-      (reference "D111") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D111") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/65870d18-3bdb-42b2-92d9-b19a712bcf03"
-      (reference "D112") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D112") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/d9303280-d0c7-4035-97bf-adda4f105784"
-      (reference "D113") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D113") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/9f92a64d-ad45-42b3-9f56-8f5f3ed65e41"
-      (reference "D114") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D114") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/2e716680-8879-454c-ac6f-afdfb26ceb6f"
-      (reference "D115") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D115") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/2f244d4e-d27f-419f-a62c-3fe4242440f5"
-      (reference "D116") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D116") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/b7bbc2df-6df1-48e9-ad6b-cced66a9a9e1"
-      (reference "D117") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D117") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/bb1a1b67-7913-4bee-b895-776d837e0cc7"
-      (reference "D118") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D118") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/feab51b8-dffa-42fb-aabc-ecfa781c0c5a"
-      (reference "D119") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D119") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/be5ab642-ffec-4f58-80cf-89fea4e341ad"
-      (reference "D120") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D120") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/4dc33e26-25ee-4460-a7e9-2085d3f3ae23"
-      (reference "D121") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D121") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/116a2474-c36b-45e0-97d1-8a2d652c9e96"
-      (reference "D122") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D122") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/00cf4701-4361-48cf-91de-775b1b67f3e7"
-      (reference "D123") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D123") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/2e833491-17a2-486e-a20a-a0d17fd4fe55"
-      (reference "D124") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D124") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/d0fbc754-9d29-4fea-a8e3-3fa8fa862959"
-      (reference "D125") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D125") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/9f1210dd-371e-4f44-aa3f-6789d588bcbf"
-      (reference "D126") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D126") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/9df5ca3e-e1e4-4e81-b865-e925b85dd47f"
-      (reference "D127") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D127") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/3190f076-acf8-4a1a-9e7f-5da1c8e26a33"
-      (reference "D128") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D128") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/301e68ec-4767-4031-954c-bddbb68d20a7"
-      (reference "D129") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D129") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/55d47c25-844a-480f-8acb-9cc3148a05c0"
-      (reference "D130") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D130") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/37cd5a53-95e2-411c-8a39-a480a7700a44"
-      (reference "D131") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D131") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/a226cbc8-a298-4ed3-9548-c0cea4332e2c"
-      (reference "D132") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D132") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/2d432be5-cd0a-434d-be87-34efbd798982"
-      (reference "D133") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D133") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/31784a30-a9e5-4206-b94f-55354024516f"
-      (reference "D134") (unit 1) (value "QBLP677R-RGB") (footprint "SamacSys_Parts:QBLP677R-RGB")
+      (reference "D134") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/53baba74-a56a-400d-8091-41707b5a2994"
       (reference "D_0") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
@@ -751,211 +751,211 @@
       (reference "IC3") (unit 1) (value "IS31FL3733B-TQLS4") (footprint "QFP50P900X900X120-49N")
     )
     (path "/4fa46147-3de5-49c8-822c-40f763747cd3/47c1fa4b-2176-4ad1-af28-c676f197f08e"
-      (reference "J1") (unit 1) (value "TYPE-C-31-M12_13_EDITED") (footprint "acheronConnectors:TYPE-C-31-M-12")
+      (reference "J1") (unit 1) (value "TYPE-C-31-M12_13_EDITED") (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering")
     )
     (path "/4fa46147-3de5-49c8-822c-40f763747cd3/e1f91d78-5a60-4bf6-a5bd-4d430b0bfaf9"
       (reference "J2") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/1b3049c5-acc9-4ba8-97ac-bde7e87bd443"
-      (reference "K_0") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_0") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/fe889ffd-36e0-4362-ab89-9230f46d9dc5"
-      (reference "K_1") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_1") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/781b42f1-1a6f-4ea6-bc90-ef5b5dc07576"
-      (reference "K_2") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_2") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/57a6594c-1cf9-496b-a72a-0023fc397cf6"
-      (reference "K_3") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_3") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/ee6b0dbf-920e-4767-a7d7-1f53c7816571"
-      (reference "K_4") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_4") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/6e2b9ce9-166e-4270-a577-5a0ab645f6fa"
-      (reference "K_5") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_5") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/25ff736b-6775-4007-aff5-46b0db6adcea"
-      (reference "K_6") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_6") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/a40800a0-7afc-4a66-9adc-83150f1dab34"
-      (reference "K_7") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_7") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4649dd6a-175e-4278-9266-72133d8c3421"
-      (reference "K_8") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_8") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4bd92a9d-3528-4db6-a185-eef48d6ca990"
-      (reference "K_9") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_9") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/10e8b7f3-d4ad-4442-baaa-55103e6934ed"
-      (reference "K_10") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_10") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/34a25e02-d386-4a05-8832-827f6fa730a5"
-      (reference "K_11") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_11") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/c4e4da31-5afb-417c-ad14-25718cf4e02b"
-      (reference "K_12") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_12") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4f209312-76c2-4393-81eb-ef2c90ee321e"
-      (reference "K_13") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-2U-NoLED")
+      (reference "K_13") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-2U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/abba0ec3-0778-47c0-b8ef-7578e3185a86"
-      (reference "K_14") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_14") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e83557c1-9aca-4089-8da5-a70c98d4fffa"
-      (reference "K_15") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED")
+      (reference "K_15") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.5U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/238fbca0-63c3-4c16-9f9f-03cf55c067b5"
-      (reference "K_16") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_16") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/d27706ca-1615-48d4-b49a-9f8678f6091c"
-      (reference "K_17") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_17") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/5ef6eb79-9ed6-4c5b-9574-bbf12a894ca7"
-      (reference "K_18") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_18") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/022d07fb-3366-4651-a42c-98938729d85e"
-      (reference "K_19") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_19") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/a3011b33-815b-47c6-978a-1eef6665ff19"
-      (reference "K_20") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_20") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f85bf316-76ec-4ff2-a8b0-f8b71885c185"
-      (reference "K_21") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_21") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/100f8be9-ecdb-48c3-ba93-b84b28b2f1e0"
-      (reference "K_22") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_22") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/9a9aff05-c726-4e11-8933-c686299b242c"
-      (reference "K_23") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_23") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/1c32f656-5311-4c75-bcf0-9283359933d2"
-      (reference "K_24") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_24") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/74ec393e-3ff3-451b-802f-ed54fff51dd6"
-      (reference "K_25") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_25") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/0502da80-4f85-4de6-b397-afb56c0874c3"
-      (reference "K_26") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_26") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4985aec3-636f-4da6-bf41-9e1477b382c6"
-      (reference "K_27") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_27") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/98a5c2f3-288b-4e83-b653-628f8be4bae8"
-      (reference "K_28") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED")
+      (reference "K_28") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.5U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/68ee6d9e-55a5-479f-a4bf-88e3c178f512"
-      (reference "K_29") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_29") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f2dc2324-e76c-4e7d-8fb0-1e85189ab288"
-      (reference "K_30") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.75U-NoLED")
+      (reference "K_30") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.75U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/37ed5b8e-f1a8-4114-b820-27f1bc063997"
-      (reference "K_31") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_31") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/a4729411-414a-4749-92fc-9daa6ebcda38"
-      (reference "K_32") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_32") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4354d91b-057f-4472-89ec-cff40741bc05"
-      (reference "K_33") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_33") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/d2432d19-a86f-48d5-926d-7557431f2893"
-      (reference "K_34") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_34") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e4ed58e3-db03-4265-94ba-90b3de3bd0da"
-      (reference "K_35") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_35") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/ec22ea06-1a89-4b7a-a08b-c6079d463e0f"
-      (reference "K_36") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_36") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/2c985cfd-9ed0-42c3-9a6d-02ef3a9f19e8"
-      (reference "K_37") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_37") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/7eb7e0d8-6700-4de2-8360-ff9064e73ea5"
-      (reference "K_38") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_38") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/867bd862-c982-413b-8002-b7d6e14417a5"
-      (reference "K_39") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_39") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/bfb62c1d-af6d-4441-8504-cc5acfc3475c"
-      (reference "K_40") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_40") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/972149e8-650c-4a8f-8a63-6e69a5586721"
-      (reference "K_41") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_41") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/a7717a62-beb9-4d68-9233-17304deb34f7"
-      (reference "K_42") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-2.25U-NoLED")
+      (reference "K_42") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-2.25U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/c6fe40ac-f4fe-4a2c-9ea7-234135dc7a81"
-      (reference "K_43") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_43") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/88fbc0c4-f8a4-49c7-957b-f993e44274b0"
-      (reference "K_44") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-2.25U-NoLED")
+      (reference "K_44") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-2.25U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/9a9ef158-cd83-4090-9750-9575f068e75c"
-      (reference "K_45") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_45") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/2cb96e74-5df4-4fab-8182-fb995ea5aebb"
-      (reference "K_46") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_46") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/09af2df7-35ae-49a8-8734-ce9079605266"
-      (reference "K_47") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_47") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e1b5c905-2ab8-4734-9c39-2087d2ba2562"
-      (reference "K_48") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_48") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/6d79e485-6b4d-4d23-9453-4505d09e86e1"
-      (reference "K_49") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_49") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/62c91952-27ea-4c17-8c18-df8641f10fd1"
-      (reference "K_50") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_50") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/de71cc1d-54a1-48c1-8f07-1746d267c2cb"
-      (reference "K_51") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_51") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/915fa335-dbd8-4418-8bff-23c1bd19b5b8"
-      (reference "K_52") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_52") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/7206f73c-096f-4f4c-a512-eaf5ef04f2f3"
-      (reference "K_53") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_53") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4a5dbd7e-9f6b-4bdf-b5d2-631ddbc59a91"
-      (reference "K_54") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_54") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f9c187ec-e110-4704-b585-3f17ccb7e6fc"
-      (reference "K_55") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.75U-NoLED")
+      (reference "K_55") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.75U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/3529850f-89bf-41c1-b2dc-88663b6c0f9d"
-      (reference "K_56") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_56") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f2acc69e-4001-4434-82fa-14ad6149d710"
-      (reference "K_57") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_57") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/50ef8abe-3175-4811-843b-07089837adea"
-      (reference "K_58") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
+      (reference "K_58") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.25U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/c0ae9371-0b67-4c63-b4b5-843a89a0f903"
-      (reference "K_59") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
+      (reference "K_59") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.25U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f2a0de3c-b418-4736-bbcf-7e52be859026"
-      (reference "K_60") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
+      (reference "K_60") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.25U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/83124ec5-d59b-4630-b00d-85d5063e4a49"
-      (reference "K_61") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-6.25U-NoLED")
+      (reference "K_61") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-6.25U-ReversedStabilizers")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/fdeff140-5f09-45b6-839f-3072fdbab506"
-      (reference "K_62") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
+      (reference "K_62") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.25U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/db6abba5-1d89-41b2-90ca-fb85419f95b3"
-      (reference "K_63") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED")
+      (reference "K_63") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.25U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/9a0fb5e0-55e5-4f30-8e1d-ee78d0280a50"
-      (reference "K_64") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_64") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/297d0419-172e-40c8-b42d-5d6603fbdad6"
-      (reference "K_65") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_65") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/209182aa-c316-4b34-85db-32a5d39818a9"
-      (reference "K_66") (unit 1) (value "KEYSW") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "K_66") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/d70d5510-433d-4998-80f2-7539fa0ca868/2bbc3d44-19be-40e1-91c6-8e6bc29c0361"
       (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -997,7 +997,7 @@
       (reference "R13") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/d70d5510-433d-4998-80f2-7539fa0ca868/6c4694f1-33c6-49bb-adab-a160961f2c6d"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:RS187R05A2DSMTRT")
     )
     (path "/4fa46147-3de5-49c8-822c-40f763747cd3/d0ca4171-fba8-465e-8146-f48765ffecfa"
       (reference "U1") (unit 1) (value "WE-TVS-82400102") (footprint "Package_TO_SOT_SMD:SOT-23-6")

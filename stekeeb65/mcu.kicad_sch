@@ -1521,7 +1521,7 @@
     (uuid 6c4694f1-33c6-49bb-adab-a160961f2c6d)
     (property "Reference" "SW1" (id 0) (at 195.58 78.74 0))
     (property "Value" "SW_Push" (id 1) (at 195.58 81.28 0))
-    (property "Footprint" "" (id 2) (at 195.58 81.28 0)
+    (property "Footprint" "random-keyboard-parts:RS187R05A2DSMTRT" (id 2) (at 195.58 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 195.58 81.28 0)
