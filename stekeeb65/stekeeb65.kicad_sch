@@ -255,6 +255,9 @@
     (path "/a1919c7d-33c6-42b1-9045-1c1d73b1c7ee/f91baa66-f012-47e8-9ff0-0a3ca15d6c73"
       (reference "#PWR058") (unit 1) (value "GND") (footprint "")
     )
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/65dbaa24-ff68-41bc-93dd-4a5a49d01517"
+      (reference "#PWR059") (unit 1) (value "GND") (footprint "")
+    )
     (path "/d70d5510-433d-4998-80f2-7539fa0ca868/ea3bd9d6-f600-4f1d-840d-0f2c6b392b10"
       (reference "C0") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -337,223 +340,226 @@
       (reference "C26") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/53baba74-a56a-400d-8091-41707b5a2994"
-      (reference "D_0") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_0") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/0f0c511b-9e0b-47cf-a2c7-ed3a3f8ccdf4"
-      (reference "D_1") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_1") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/07dc40a9-ca8e-4aa2-a28e-524573212f94"
-      (reference "D_2") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_2") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/aeacd013-fcda-4ce6-80c5-73ed762f6e7b"
-      (reference "D_3") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_3") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/6ad65420-a1ab-4206-bc78-a58159452ec4"
-      (reference "D_4") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_4") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/0489cbba-434a-4fb6-8f9f-99663ede724c"
-      (reference "D_5") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_5") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/34f9f9e4-69a3-41bb-85b6-88e8e71b8ef7"
-      (reference "D_6") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_6") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/679f8127-1cfa-44ca-9071-cb26d07556fe"
-      (reference "D_7") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_7") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/c867850f-14d8-467a-bc78-7dfa21acfb26"
-      (reference "D_8") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_8") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/50b37ac3-c9f7-4d48-b534-94b77f2528c7"
-      (reference "D_9") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_9") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/b97d6691-ef1f-4021-9a45-b6350942842f"
-      (reference "D_10") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_10") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/6ad4292a-960a-4073-8ba5-ea158f53970f"
-      (reference "D_11") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_11") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/37d091bc-98d1-4ec6-aa3c-940bf38c0148"
-      (reference "D_12") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_12") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/c5c8ef21-ea99-41aa-ab57-86a552a645fd"
-      (reference "D_13") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_13") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f0c9862d-fe3a-48f0-8c36-6a7f662458fd"
-      (reference "D_14") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_14") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/288dfafe-01fa-49ee-9ac3-da25f5e5d999"
-      (reference "D_15") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_15") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/fc95227a-dad4-49a8-a1c7-f63795c8e602"
-      (reference "D_16") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_16") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f75245ab-59d2-42c1-999f-147ba6d7e71a"
-      (reference "D_17") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_17") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/2ec1541a-b159-4565-84f6-33a073ada044"
-      (reference "D_18") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_18") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/d240da45-41f0-4cd9-b66c-8feca72278bd"
-      (reference "D_19") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_19") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/c36ccf9b-e552-4bd0-9b99-511406551169"
-      (reference "D_20") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_20") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/174c0b71-f41b-4a65-8929-2c9e73a9ca3d"
-      (reference "D_21") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_21") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/c6fe614a-b2e3-4730-83df-2f8272b4d7de"
-      (reference "D_22") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_22") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/1c046b57-7380-4b05-a945-c29f385e8ff8"
-      (reference "D_23") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_23") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/64c75a34-030e-41bf-9d21-41a68cd26d9e"
-      (reference "D_24") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_24") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/73f3b52e-73e7-4fe0-8af4-289acfd52c39"
-      (reference "D_25") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_25") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/6534bd3f-f0fc-488e-9a4d-a4fffc96b4b1"
-      (reference "D_26") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_26") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/0f41a4c3-fb0b-4792-ad03-6b37bf6c067b"
-      (reference "D_27") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_27") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/00bbd537-bb1c-40d4-a224-af7de5d3214b"
-      (reference "D_28") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_28") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/75adfd45-e5f2-47b7-9112-36a5a0261c4a"
-      (reference "D_29") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_29") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/1cdf2b47-69e2-4de3-b46d-01c04be96396"
-      (reference "D_30") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_30") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/8f198058-a7d3-40d1-8016-81fa9f2b0bda"
-      (reference "D_31") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_31") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/3aeb5cd4-2a22-49aa-880c-128f3e0aa868"
-      (reference "D_32") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_32") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/2a52a205-2df0-4325-b22f-ceab99eb8135"
-      (reference "D_33") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_33") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/8fd6a458-3a35-4f23-9864-5a67d8087204"
-      (reference "D_34") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_34") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/6fbe3b87-b1f3-41cf-a123-994e8e6d3739"
-      (reference "D_35") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_35") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/5d55cd94-2dae-4b64-8af1-ffc5f6f3d189"
-      (reference "D_36") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_36") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/c3be6a3d-909c-4f3a-adea-53acde1779cf"
-      (reference "D_37") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_37") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/5123eb85-0780-456e-a1aa-b126c6927c53"
-      (reference "D_38") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_38") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/da90d919-bea6-49e1-ba07-1331025cb680"
-      (reference "D_39") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_39") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4ae8297e-5cdd-46ee-8a1c-1669ec8c5c14"
-      (reference "D_40") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_40") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e413d51a-b730-4122-b410-2bd1c80127ba"
-      (reference "D_41") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_41") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/a7443273-95a3-4d7f-9470-c0330e40857b"
-      (reference "D_42") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_42") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/a3b49483-61ad-47a1-91b9-97ad057cd524"
-      (reference "D_43") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_43") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f428d3ee-8b9e-4a59-a349-87ed1d32f208"
-      (reference "D_44") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_44") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/99edb28c-264b-40ae-9a9a-a1a8eff8998b"
-      (reference "D_45") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_45") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/fbc09a6e-fe59-4197-a145-4d5fae7e1c05"
-      (reference "D_46") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_46") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/b73092cb-f972-4875-ba3a-b32c3ff56fbf"
-      (reference "D_47") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_47") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/712d8b04-fce9-4b23-8abf-6051a74d9a0b"
-      (reference "D_48") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_48") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/6f864d32-4c29-4af6-be3f-ecfe1b86ad50"
-      (reference "D_49") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_49") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/a152b105-23b7-41e8-aadf-24371e622132"
-      (reference "D_50") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_50") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/f4a8a859-a7bd-4c6e-b7ef-53d489f04b95"
-      (reference "D_51") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_51") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/77d08686-7f7b-4ae1-a41e-bcb36b021977"
-      (reference "D_52") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_52") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/b8114698-9e74-4070-bede-3ac54e5b7ab9"
-      (reference "D_53") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_53") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/bbcdf874-254b-409e-87f8-afea17135b2b"
-      (reference "D_54") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_54") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/da1220e6-309b-4b2e-9531-30662978e457"
-      (reference "D_55") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_55") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4e3e413c-3c42-4c19-b364-e2ef0752cfe3"
-      (reference "D_56") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_56") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/cf5b49ef-3ef7-4d71-8d26-ba136f321b53"
-      (reference "D_57") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_57") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/ceb02154-24fc-409f-b6a3-ec8ee116aa58"
-      (reference "D_58") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_58") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/fc9d66cd-86bb-44ed-8655-9b46b8121965"
-      (reference "D_59") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_59") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/fde8de2e-c618-4451-8058-c42ca4a589e1"
-      (reference "D_60") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_60") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/1737dbeb-054a-4b78-a668-3458a65ff863"
-      (reference "D_61") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_61") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e7ba62c6-2ec4-40cc-92ab-ac4bf5e07b01"
-      (reference "D_62") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_62") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/b2cddf01-6590-4d3a-b2db-4e63942a36f2"
-      (reference "D_63") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_63") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/23fcd0b8-72da-4551-a488-5f64fc63012b"
-      (reference "D_64") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_64") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/541ac519-79df-41e8-8aca-f6b38db53eb6"
-      (reference "D_65") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_65") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e7aef9b1-7989-4021-88e8-191b00deb267"
-      (reference "D_66") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D_66") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/4fa46147-3de5-49c8-822c-40f763747cd3/f919de67-f5da-431e-a1fa-76d63f591607"
       (reference "F0") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/d70d5510-433d-4998-80f2-7539fa0ca868/8fd057dd-85a3-4b7a-b589-5b9877391b0e"
-      (reference "IC0") (unit 1) (value "ATMEGA32U4-AU") (footprint "QFP80P1200X1200X120-44N")
+      (reference "IC0") (unit 1) (value "ATMEGA32U4-AU") (footprint "SamacSys_Parts:QFP80P1200X1200X120-44N")
     )
     (path "/a1919c7d-33c6-42b1-9045-1c1d73b1c7ee/a57a3eb5-9a64-4056-a9f1-77a6af5f242a"
-      (reference "IC1") (unit 1) (value "IS31FL3733B-TQLS4") (footprint "QFP50P900X900X120-49N")
+      (reference "IC1") (unit 1) (value "IS31FL3733B-TQLS4") (footprint "SamacSys_Parts:QFP50P900X900X120-49N")
     )
     (path "/a1919c7d-33c6-42b1-9045-1c1d73b1c7ee/58a572dc-397f-4ccf-9daf-6a8b6d18091d"
-      (reference "IC2") (unit 1) (value "IS31FL3733B-TQLS4") (footprint "QFP50P900X900X120-49N")
+      (reference "IC2") (unit 1) (value "IS31FL3733B-TQLS4") (footprint "SamacSys_Parts:QFP50P900X900X120-49N")
     )
     (path "/4fa46147-3de5-49c8-822c-40f763747cd3/e1f91d78-5a60-4bf6-a5bd-4d430b0bfaf9"
       (reference "J0") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
     )
     (path "/4fa46147-3de5-49c8-822c-40f763747cd3/47c1fa4b-2176-4ad1-af28-c676f197f08e"
       (reference "J1") (unit 1) (value "TYPE-C-31-M12_13_EDITED") (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering")
+    )
+    (path "/d70d5510-433d-4998-80f2-7539fa0ca868/08e2016e-84a5-4da5-b083-4215296b37fd"
+      (reference "JP0") (unit 1) (value "SolderJumper_3_Open") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/1b3049c5-acc9-4ba8-97ac-bde7e87bd443"
       (reference "K_0") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
@@ -597,8 +603,8 @@
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/4f209312-76c2-4393-81eb-ef2c90ee321e"
       (reference "K_13") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-2U")
     )
-    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/abba0ec3-0778-47c0-b8ef-7578e3185a86"
-      (reference "K_14") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/8bab13f4-ea53-425c-9f42-f17c5ddac741"
+      (reference "K_14") (unit 1) (value "EC11") (footprint "mini-general-tweaks:RotaryEncoder_Alps_EC11E-Switch-Vertical-EDIT")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e83557c1-9aca-4089-8da5-a70c98d4fffa"
       (reference "K_15") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.5U")
@@ -836,9 +842,6 @@
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/9f1210dd-371e-4f44-aa3f-6789d588bcbf"
       (reference "S13") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
-    )
-    (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/55d47c25-844a-480f-8acb-9cc3148a05c0"
-      (reference "S14") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")
     )
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/bc2c8bfa-841b-4e97-b6a5-91735e7305f6"
       (reference "S15") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB")

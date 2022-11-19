@@ -1,4 +1,4 @@
-19915010255714914
+19928152338817815
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84797,6 +84797,62 @@ RGB-REVERSE_MOUNT
 0
 4
 4
+mini-general-tweaks
+D_SOD123_axial-dual
+
+
+0
+10
+2
+mini-general-tweaks
+HRO-TYPE-C-31-M-12-HandSoldering_tweaked
+
+
+0
+16
+13
+mini-general-tweaks
+ICSP_2.54mm_LAYOUT
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+mini-general-tweaks
+MountingHole_2.2mm_M2_Pad_tweaked
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+1
+1
+mini-general-tweaks
+PinHeader_2x03_P2.54mm_Vertical_ICSP
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+mini-general-tweaks
+RotaryEncoder_Alps_EC11E-Switch-Vertical-EDIT
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+mini-general-tweaks
+SOT-23-6_tweaked
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+mini-general-tweaks
+TQFP-44_10x10mm_P0.8mm_ATmega32U4
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123

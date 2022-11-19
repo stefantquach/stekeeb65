@@ -5,4 +5,5 @@
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/SamacSys_Parts.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "custom_library")(type "KiCad")(uri "${KIPRJMOD}/libraries/custom_library")(options "")(descr ""))
+  (lib (name "mini-general-tweaks")(type "KiCad")(uri "${KIPRJMOD}/libraries/mini-general-tweaks.pretty")(options "")(descr ""))
 )
