@@ -13,7 +13,7 @@ app_filename = args.file
 
 ref_header_regex = r"MX_Alps_Hybrid:MX-([0-9\.]+)U"
 out_header_regex = r"footprint \"MX_Hotswap:MX-Hotswap-[0-9\.]+U"
-led_header_regex = r"footprint \"random-keyboard-parts:QBLP677R-RGB\""
+led_header_regex = r"footprint \"random-keyboard-parts:QBLP677R-RGB"
 diode_header_regex = r"footprint \"random-keyboard-parts:D_SOD-123-Pretty\""
 at_regex = r"\(at ([0-9\.]+) ([0-9\.]+)"
 key_regex = r"(K_[0-9]+)"
@@ -150,7 +150,7 @@ with open(app_filename, "w") as app_file:
         position = position_dict[key]
         lines[key_line_dict[key]] = "    (at %.4f %.4f)\n" % (position[0], position[1])
         diode_key = key.replace("K", "D")
-        lines[diode_line_dict[diode_key]] = "    (at %.4f %.4f 90)\n" % (position[0]+8, position[1])
+        lines[diode_line_dict[diode_key]] = "    (at %.4f %.4f 90)\n" % (position[0]+7.2, position[1])
 
         if(key != "K_14"):
             led_key = key.replace("K_", "S")
