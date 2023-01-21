@@ -498,14 +498,17 @@
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/b2cddf01-6590-4d3a-b2db-4e63942a36f2"
       (reference "D_63") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
-    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/23fcd0b8-72da-4551-a488-5f64fc63012b"
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/bdafbc26-1efa-49e3-b445-a7ce4c7644bc"
       (reference "D_64") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
-    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/541ac519-79df-41e8-8aca-f6b38db53eb6"
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/23fcd0b8-72da-4551-a488-5f64fc63012b"
       (reference "D_65") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
-    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e7aef9b1-7989-4021-88e8-191b00deb267"
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/541ac519-79df-41e8-8aca-f6b38db53eb6"
       (reference "D_66") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
+    )
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/e7aef9b1-7989-4021-88e8-191b00deb267"
+      (reference "D_67") (unit 1) (value "D") (footprint "random-keyboard-parts:D_SOD-123-Pretty")
     )
     (path "/4fa46147-3de5-49c8-822c-40f763747cd3/246438d5-6e4f-4f3d-8de2-83ffcb599404"
       (reference "H0") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom")
@@ -724,19 +727,22 @@
       (reference "K_61") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-6.25U-ReversedStabilizers")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/fdeff140-5f09-45b6-839f-3072fdbab506"
-      (reference "K_62") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.25U")
+      (reference "K_62") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/db6abba5-1d89-41b2-90ca-fb85419f95b3"
-      (reference "K_63") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1.25U")
+      (reference "K_63") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
-    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/9a0fb5e0-55e5-4f30-8e1d-ee78d0280a50"
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/6e558185-757d-4432-b522-9c98c796f47f"
       (reference "K_64") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
-    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/297d0419-172e-40c8-b42d-5d6603fbdad6"
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/9a0fb5e0-55e5-4f30-8e1d-ee78d0280a50"
       (reference "K_65") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
-    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/209182aa-c316-4b34-85db-32a5d39818a9"
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/297d0419-172e-40c8-b42d-5d6603fbdad6"
       (reference "K_66") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
+    )
+    (path "/dedbb937-4edf-4337-b1ba-820789b77d1f/209182aa-c316-4b34-85db-32a5d39818a9"
+      (reference "K_67") (unit 1) (value "KEYSW") (footprint "MX_Hotswap:MX-Hotswap-1U")
     )
     (path "/d70d5510-433d-4998-80f2-7539fa0ca868/0080175f-4a5f-4aa0-a371-35d4db05c55c"
       (reference "R0") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -960,14 +966,17 @@
     (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/65870d18-3bdb-42b2-92d9-b19a712bcf03"
       (reference "S63") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/d0fbc754-9d29-4fea-a8e3-3fa8fa862959"
+    (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/6e159a82-bb83-4fca-b810-bb5a3bae515e"
       (reference "S64") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/301e68ec-4767-4031-954c-bddbb68d20a7"
+    (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/d0fbc754-9d29-4fea-a8e3-3fa8fa862959"
       (reference "S65") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/31784a30-a9e5-4206-b94f-55354024516f"
+    (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/301e68ec-4767-4031-954c-bddbb68d20a7"
       (reference "S66") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
+    )
+    (path "/84172dee-49cd-4cb1-86e2-754c6a06b4ea/31784a30-a9e5-4206-b94f-55354024516f"
+      (reference "S67") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
     (path "/d70d5510-433d-4998-80f2-7539fa0ca868/6c4694f1-33c6-49bb-adab-a160961f2c6d"
       (reference "SW0") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:RS187R05A2DSMTRT")
